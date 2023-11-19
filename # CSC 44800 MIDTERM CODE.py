@@ -1,7 +1,7 @@
 # CSC 44800 MIDTERM
 # Al Shafian Bari
 
-# This is a example of a weak AI that lets you inout two numbers
+# This is an example of a weak AI that lets you input two numbers
 # and it add, subtract, multiply, and divide the two numbers
 
 def add(x, y):
